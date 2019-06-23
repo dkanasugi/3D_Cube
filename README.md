@@ -3,7 +3,7 @@ A Visual Studio Project that requires Direct 11 package for a revolving cubes ar
 Clone the whole project and run the Tutorial06_2010.sln on Visual Studio
 Make sure Direct 11 is downloaded and after that build and run the program.
 
-Screenshot
+Screenshot</br>
 ![model(1)](https://user-images.githubusercontent.com/38510468/59983412-04581e80-95d4-11e9-956e-ede444911521.png)
 
 
